@@ -1,0 +1,8 @@
+{
+  "name": "Verichain",
+  "description": "Enterprise pharmaceutical supply chain provenance and anti-counterfeiting consortium blockchain platform with cryptographic custody handoffs, tamper detection, and Proof of Authority validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
